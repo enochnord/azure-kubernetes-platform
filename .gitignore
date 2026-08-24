@@ -1,0 +1,18 @@
+# .NET build output
+**/bin/
+**/obj/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating-system files
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+# Local test and coverage output
+TestResults/
+coverage/
