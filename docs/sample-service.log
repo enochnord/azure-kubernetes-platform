@@ -1,0 +1,6 @@
+INFO service starting
+INFO configuration loaded
+ERROR database connection timed out
+INFO retrying database connection
+INFO database connected
+ERROR health check failed

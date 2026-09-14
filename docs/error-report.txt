@@ -1,0 +1,2 @@
+ERROR database connection timed out
+ERROR health check failed
